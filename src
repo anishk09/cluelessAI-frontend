@@ -1,0 +1,7 @@
+<script>start("/Users/anishkothapalli/Desktop/CluelessAI/src/");</script>
+<script>onHasParentDirectory();</script>
+<script>addRow("components","components",1,224,"224 B",1761427275,"10/25/25, 5:21:15 PM");</script>
+<script>addRow("styles","styles",1,96,"96 B",1761425137,"10/25/25, 4:45:37 PM");</script>
+<script>addRow("App.tsx","App.tsx",0,1520,"1.5 kB",1761426301,"10/25/25, 5:05:01 PM");</script>
+<script>addRow("Attributions.md","Attributions.md",0,289,"289 B",1761425168,"10/25/25, 4:46:08 PM");</script>
+<script>addRow("index.tsx","index.tsx",0,282,"282 B",1761426301,"10/25/25, 5:05:01 PM");</script>
