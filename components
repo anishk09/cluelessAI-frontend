@@ -1,7 +1,0 @@
-<script>start("/Users/anishkothapalli/Desktop/CluelessAI/src/components/");</script>
-<script>onHasParentDirectory();</script>
-<script>addRow("AnalyticsScreen.tsx","AnalyticsScreen.tsx",0,7115,"6.9 kB",1761425065,"10/25/25, 4:44:25 PM");</script>
-<script>addRow("ClosetScreen.tsx","ClosetScreen.tsx",0,6509,"6.4 kB",1761425061,"10/25/25, 4:44:21 PM");</script>
-<script>addRow("HomeScreen.tsx","HomeScreen.tsx",0,17196,"16.8 kB",1761425057,"10/25/25, 4:44:17 PM");</script>
-<script>addRow("Navigation.tsx","Navigation.tsx",0,1842,"1.8 kB",1761425079,"10/25/25, 4:44:39 PM");</script>
-<script>addRow("ProfileScreen.tsx","ProfileScreen.tsx",0,5341,"5.2 kB",1761425073,"10/25/25, 4:44:33 PM");</script>
